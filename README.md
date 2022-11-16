@@ -52,7 +52,7 @@ if(esp8266_at_ver != None):
 '''
 set the current WiFi in SoftAP+STA
 '''
-print("WiFi Current Mode:",esp01.setCurrentWiFiMode()
+print("WiFi Current Mode:",esp01.setCurrentWiFiMode())
   
 print("\r\n\r\n")
 
